@@ -356,38 +356,30 @@ section {
 
 .triangle-1 {
   right: 0;
-  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 6s infinite; }
-  .triangle-1 img {
-    height: 50px;
-    width: 50px;
-    transform: rotate(30deg); }
+  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 6s infinite;
+  font-size: 50px;
+  transform: rotate(30deg); }
 
 .triangle-2 {
   top: 30%;
   left: 20%;
-  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 8s infinite; }
-  .triangle-2 img {
-    width: 75px;
-    height: 75px;
-    transform: rotate(15deg); }
+  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 8s infinite;
+  font-size: 75px;
+  transform: rotate(15deg); }
 
 .triangle-3 {
   top: 80%;
   left: 15%;
-  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 10s infinite; }
-  .triangle-3 img {
-    width: 45px;
-    height: 45px;
-    transform: rotate(40deg); }
+  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 10s infinite;
+  font-size: 45px;
+  transform: rotate(40deg); }
 
 .triangle-4 {
   top: 60%;
   right: 15%;
-  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 5s infinite; }
-  .triangle-4 img {
-    width: 45px;
-    height: 45px;
-    transform: rotate(-40deg); }
+  animation: fadeInFromTop .5s linear forwards, floating ease-in-out 5s infinite;
+  font-size: 45px;
+  transform: rotate(-40deg); }
 
 /*=====  End of FORM RECTANGLE ETC  ======*/
 /*================================
