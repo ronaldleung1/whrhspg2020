@@ -100,7 +100,7 @@ section {
   border-radius: 0;
   margin-bottom: 0;
   overflow: hidden;
-  min-height: 100vh; }
+  height: 400px; }
   @media (max-width: 767px) and (orientation: landscape) {
     .jumbotron {
       min-height: 500px; } }
@@ -126,12 +126,15 @@ section {
     line-height: .9;
     font-weight: bold;
     display: inline-block;
-    border: 15px solid #fff;
+    border: 8px solid #fff;
     padding: 30px;
-    font-size: 9rem;
+    font-size: 5rem;
     opacity: 0;
     animation: 1s fadeInFromTop cubic-bezier(0.785, 0.135, 0.15, 0.86) 1s forwards;
     animation-delay: .8s; }
+  .jumbotron h3 {
+    font-size: 1.5rem;
+  }
 
 .jumbotron-single h1 {
   font-size: 3rem !important; }
