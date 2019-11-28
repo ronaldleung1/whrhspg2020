@@ -39,7 +39,8 @@ a:hover {
   color: #333399; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+height: auto; }
 
 .bg-fixed {
   background-size: cover; }
