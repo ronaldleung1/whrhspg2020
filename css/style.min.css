@@ -26,7 +26,7 @@ h6,
   margin-top: 0; }
 
 a {
-  color: #ff00cc;
+  color: #d49e4e;
   transition: all .3s ease-in-out; }
 
 a:focus,
@@ -36,7 +36,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #333399; }
+  color: #4f3714; }
 
 img {
   max-width: 100%;
@@ -117,11 +117,11 @@ section {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #ff00cc;
+    background: #ffd600;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #4f3714, #ffd600);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #4f3714, #ffd600);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
   .jumbotron h1 {
     line-height: .9;
@@ -151,11 +151,11 @@ section {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #ff00cc;
+    background: #ffd600;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #4f3714, #ffd600);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #4f3714, #ffd600);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
   .overlay.bg-white {
     color: #000; }
@@ -179,12 +179,12 @@ section {
 
 .btn-primary {
   display: inline-block;
-  background-color: #ff00cc;
-  border-color: #ff00cc;
+  background-color: #ffd600;
+  border-color: #ffd600;
   color: #fff; }
   .btn-primary:hover {
-    background-color: #333399;
-    border-color: #333399;
+    background-color: #4f3714;
+    border-color: #4f3714;
     color: #fff; }
 
 .btn-outline-primary {
@@ -193,8 +193,8 @@ section {
   background-image: none;
   border-color: #fff; }
   .btn-outline-primary:hover {
-    background-color: #333399;
-    border-color: #333399;
+    background-color: #4f3714;
+    border-color: #4f3714;
     color: #fff; }
 
 .btn-shadow {
@@ -204,7 +204,7 @@ section {
   color: #000; }
 
 .btn-link {
-  color: #ff00cc; }
+  color: #ffd600; }
 
 /*=====  End of BUTTON  ======*/
 /*==========================================
@@ -386,7 +386,7 @@ font-size: 50px; }
     transform: translateY(-13px); }
 
 .progress-bar {
-  background-color: #ff00cc; }
+  background-color: #ffd600; }
 
 /*=====  End of FEATURES  ======*/
 /*=============================
@@ -407,7 +407,7 @@ font-size: 50px; }
   padding-bottom: 50px; }
 
 .testi-icon {
-  color: #ff00cc; }
+  color: #ffd600; }
 
 .testi-content {
   margin-top: 80px;
@@ -440,7 +440,7 @@ font-size: 50px; }
     transition: box-shadow 0.3s ease, background-color 0.3s ease; }
   .owl-dot.active > span {
     background-color: transparent;
-    box-shadow: 0 0 0 2px #ff00cc; }
+    box-shadow: 0 0 0 2px #ffd600; }
 
 .owl-dots {
   position: absolute;
@@ -678,7 +678,7 @@ font-size: 50px; }
 =            FORM CONTROL            =
 ====================================*/
 .form-control:focus {
-  border-color: #ff00cc;
+  border-color: #ffd600;
   box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
 
 .form-control::-webkit-input-placeholder {
@@ -716,22 +716,22 @@ font-size: 50px; }
     top: 0;
     height: auto;
     width: 100%;
-    background: #ff00cc;
+    background: #ffd600;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #4f3714, #ffd600);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #4f3714, #ffd600);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     z-index: 11; }
   #header-navbar {
     padding-top: 15px !important;
     padding-bottom: 15px !important; }
   .navbar-transparent .navbar-collapse {
-    background: #ff00cc;
+    background: #ffd600;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #4f3714, #ffd600);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #4f3714, #ffd600);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 10px; } }
 
