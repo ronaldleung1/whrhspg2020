@@ -26,7 +26,8 @@ h6,
   margin-top: 0; }
 
 a {
-  font-weight: bold;
+  color: #7a551e;
+  font-weight: bolder;
   transition: all .3s ease-in-out; }
 
 a:focus,
